@@ -108,7 +108,7 @@ author:
   email            : "sundong99@naver.com"
   links:
     - label: "Youtube"
-      icon: "fab fa-fw fa-youtube-play"
+      icon: "fab fa-youtube"
       url: "https://www.youtube.com/channel/UCIUt83vyfY6J2wVFPjFTMvg"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
