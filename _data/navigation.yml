@@ -4,8 +4,10 @@ main:
     url: /
   - title: "About me"
     url: /about-me/
+  - title: "My favorite"
+    url: /my-favorite/
   - title: "Contact"
-    url: /sitemap/
+    url: /contact/
   # - title: "About me"
   #   url: /sitemap/
   # - title: "Quick-Start Guide"
