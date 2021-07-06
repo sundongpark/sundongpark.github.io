@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-## Sundong Park
+## 박선동 (Sundong Park)
 
 Changwon-si, Gyeongsangnam-do, Republic of Korea, 1999
 
