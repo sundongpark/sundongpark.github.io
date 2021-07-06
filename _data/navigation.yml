@@ -4,6 +4,8 @@ main:
     url: /
   - title: "About me"
     url: /about-me/
+  - title: "Posts"
+    url: /posts/
   - title: "My favorite"
     url: /my-favorite/
   - title: "Contact"
