@@ -107,9 +107,12 @@ author:
   location         : "Republic of Korea"
   email            : "sundong99@naver.com"
   links:
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube-play"
+      url: "https://www.youtube.com/channel/UCIUt83vyfY6J2wVFPjFTMvg"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sundong99@naver.com"
+      # url: "mailto:sundong99@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
