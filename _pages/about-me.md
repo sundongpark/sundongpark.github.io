@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /about-me/
-title: "Posts by Category"
+title: "About me"
 author_profile: true
 ---
 {% include group-by-array collection=site.posts field="categories" %}
