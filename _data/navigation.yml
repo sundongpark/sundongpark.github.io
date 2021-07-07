@@ -5,7 +5,7 @@ main:
   - title: "About me"
     url: /about-me/
   - title: "Posts"
-    url: /posts/
+    url: /category-archive/
   - title: "My favorite"
     url: /my-favorite/
   - title: "Contact"
