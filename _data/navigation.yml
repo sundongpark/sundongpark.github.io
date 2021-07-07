@@ -6,7 +6,7 @@ main:
     url: /about-me/
   - title: "Posts"
     url: /categories/
-  - title: "Github"
+  - title: "GitHub"
     url: https://github.com/sundongpark/
   - title: "Contact"
     url: /contact/
