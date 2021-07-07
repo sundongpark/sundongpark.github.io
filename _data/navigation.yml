@@ -6,8 +6,8 @@ main:
     url: /about-me/
   - title: "Posts"
     url: /category-archive/
-  - title: "My favorite"
-    url: /my-favorite/
+  - title: "Github"
+    url: https://github.com/sundongpark/
   - title: "Contact"
     url: /contact/
   # - title: "About me"
