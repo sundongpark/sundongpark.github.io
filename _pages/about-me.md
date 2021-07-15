@@ -1,5 +1,6 @@
 ---
 layout: archive
+classes: wide
 permalink: /about-me/
 title: "About me"
 author_profile: true
