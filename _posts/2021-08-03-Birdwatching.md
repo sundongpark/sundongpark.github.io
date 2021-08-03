@@ -18,6 +18,7 @@ tags:
 2. 정지영상 개체수 검출 후 결과 저장 (detect.py)
 
 ![Bird](https://github.com/sundongpark/Birdwatching/tree/main/data/bird.jpg)![Result](https://github.com/sundongpark/Birdwatching/tree/main/data/result.jpg)
+
 3. 동영상 개체수 검출 후 결과 저장 (detect_video.py)
 
 ![Result](https://github.com/sundongpark/Birdwatching/tree/main/data/result.gif)
