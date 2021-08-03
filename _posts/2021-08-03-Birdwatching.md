@@ -16,9 +16,6 @@ tags:
 ## 진행 상황
 1. YOLOv4 사용 (yolo.py)
 2. 정지영상 개체수 검출 후 결과 저장 (detect.py)
-
-![Bird](https://github.com/sundongpark/Birdwatching/blob/main/data/bird.jpg)![Result](https://github.com/sundongpark/Birdwatching/blob/main/data/result.jpg)
-
+<p align="left"><img src="https://github.com/sundongpark/Birdwatching/blob/main/data/bird.jpg" width="512"\></p><p align="left"><img src="https://github.com/sundongpark/Birdwatching/blob/main/data/result.jpg" width="512"\></p>
 3. 동영상 개체수 검출 후 결과 저장 (detect_video.py)
-
-![Result](https://github.com/sundongpark/Birdwatching/blob/main/data/result.gif)
+<p align="left"><img src="https://github.com/sundongpark/Birdwatching/blob/main/data/result.gif" width="512"\></p>
