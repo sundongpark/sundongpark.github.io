@@ -25,13 +25,14 @@ tags:
 
 2. 정지영상 개체수 검출 후 결과 저장 (detect.py)
 
-![Bird](https://github.com/sundongpark/Birdwatching/blob/main/data/bird.jpg)![Result](https://github.com/sundongpark/Birdwatching/blob/main/data/result.jpg)
+![Bird](https://github.com/sundongpark/Birdwatching/blob/main/data/bird.jpg)
+![Result](https://github.com/sundongpark/Birdwatching/blob/main/data/result.jpg)
 
   트랙바를 추가하여 프로그램 실행 중 매개변수 (Size, Score Threshold, NMS Threshold) 변경 가능
 
   명령행 인자로 매개변수를 입력 가능
     
-<p align="left"><img src="data/program.jpg" width="512"\></p>
+![Result](https://github.com/sundongpark/Birdwatching/blob/main/data/program.jpg)
 
 3. 동영상 개체수 검출 후 결과 저장 (detect_video.py)
 
