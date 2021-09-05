@@ -5,7 +5,7 @@ permalink: /about-me/
 title: "박선동 (Sundong Park)"
 author_profile: true
 ---
-
+---
 - 1999, 대한민국 경상남도 창원시
 - 2018.03 ~ 현재, 경희대학교 생체의공학과
 - 2019.07 ~ 2021.04, 대한민국 해군
