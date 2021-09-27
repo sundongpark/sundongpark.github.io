@@ -36,4 +36,4 @@ tags:
 
 3. 동영상 개체수 검출 후 결과 저장 (detect_video.py)
 
-![Result](https://github.com/sundongpark/Birdwatching/blob/main/data/result.gif)
+![result](https://user-images.githubusercontent.com/73617312/134832177-3e9caa85-b973-42ec-8eb7-a7181ab713a3.gif)
