@@ -37,3 +37,8 @@ tags:
 3. 동영상 개체수 검출 후 결과 저장 (detect_video.py)
 
 ![result](https://user-images.githubusercontent.com/73617312/134832177-3e9caa85-b973-42ec-8eb7-a7181ab713a3.gif)
+
+## Reference
+* [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://arxiv.org/abs/2004.10934)
+* [Darknet](https://github.com/AlexeyAB/darknet)
+* [YOLO object detection using Opencv with Python](https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python)
