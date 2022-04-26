@@ -14,8 +14,8 @@ author: Sundong Park
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "_pages/aboutme"
-  Posts: "categories"
+  About Me: "aboutme"
+  Posts: "posts"
   GitHub: "https://github.com/sundongpark"
   Contact: "contact"
 
@@ -39,8 +39,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "sundong@khu.ac.kr"
-  github: "https://github.com/sundongpark"
-  youtube: "https://www.youtube.com/channel/UCIUt83vyfY6J2wVFPjFTMvg"
+  github: "sundongpark"
+  youtube: "channel/UCIUt83vyfY6J2wVFPjFTMvg"
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  twitter: daattali
