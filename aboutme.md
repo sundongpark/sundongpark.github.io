@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "박선동 (Sundong Park)"
+title: "About me"
+subtitle: "박선동 (Sundong Park)"
 ---
 ---
 - 1999, 대한민국 경상남도 창원시
