@@ -1,10 +1,7 @@
 ---
-title:  "Birdwatching"
-header:
-categories: 
-  - Projects
-tags:
-  - Birdwatching
+layout: post
+title:  Birdwatching
+tags: [Birdwatching]
 ---
 
 ## 목표
