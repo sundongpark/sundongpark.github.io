@@ -14,7 +14,7 @@ author: Sundong Park
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "_pages/aboutme"
   Posts: "categories"
   GitHub: "https://github.com/sundongpark"
   Contact: "contact"
