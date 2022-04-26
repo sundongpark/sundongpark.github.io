@@ -16,7 +16,7 @@ author: Sundong Park
 navbar-links:
   Home: "https://sundongpark.github.io/"
   About Me: "aboutme"
-  Posts: "posts"
+#  Posts: "posts"
   GitHub: "https://github.com/sundongpark"
   Contact: "contact"
 
