@@ -5,8 +5,7 @@ title: "박선동 (Sundong Park)"
 # toc_sticky: true
 # toc_label: "MYSELF"
 ---
-
-# 
+---
 - [AIRLab (Artificial Intelligence & Robotics Lab)](http://airlab.khu.ac.kr), [Department of Software Convergence](http://swcon.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Sep. 2022 ~ Present)
 ## Education
 - M.S. Student in [Software Convergence](http://swcon.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Sep. 2023 ~ Present)
