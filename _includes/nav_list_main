@@ -26,15 +26,22 @@
         <span class="nav__sub-title">일상</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Algorithm" %}
-                        <li><a href="/categories/algorithm" class="">책 ({{category[1].size}})</a></li>
+                    {% if category[0] == "Blog" %}
+                        <li><a href="/categories/blog" class="">잡담 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Algorithm" %}
-                        <li><a href="/categories/algorithm" class="">사진 ({{category[1].size}})</a></li>
+                    {% if category[0] == "Book" %}
+                        <li><a href="/categories/book" class="">책 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Photo" %}
+                        <li><a href="/categories/photo" class="">사진 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
