@@ -1,9 +1,9 @@
 ---
 permalink: /about/
 title: "About"
-toc: true
-toc_sticky: true
-toc_label: "MYSELF"
+# toc: true
+# toc_sticky: true
+# toc_label: "MYSELF"
 ---
 
 About me
