@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Sundong Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Student."
+#  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
