@@ -13,6 +13,7 @@ classes: wide
 - [AIRLab (Artificial Intelligence & Robotics Lab)](http://airlab.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Sep. 2022 ~ Present)
 - Email: <sundong@khu.ac.kr>
 - GitHub: [https://github.com/sundongpark](https://github.com/sundongpark)
+- Blog: [https://sundong.tistory.com](https://sundong.tistory.com)
 ## Education
 - M.S. Student in [Software Convergence](http://swcon.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Sep. 2023 ~ Present)
   - [AIRLab](http://airlab.khu.ac.kr)
