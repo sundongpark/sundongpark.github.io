@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "박선동 (Sundong Park)"
-layout: collection
+# layout: collection
 # author_profile: false
 # sidebar_main: false
 classes: wide
