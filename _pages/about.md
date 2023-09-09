@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "박선동 (Sundong Park)"
 # layout: collection
 author_profile: true
