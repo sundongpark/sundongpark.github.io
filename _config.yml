@@ -115,7 +115,7 @@ author:
       url: "mailto:sundong@khu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://sundongpark.github.io/"
+      url: "https://sundong.tistory.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
