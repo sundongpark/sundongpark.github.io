@@ -20,7 +20,7 @@ title                    : "박선동 (Sundong Park)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "박선동 (Sundong Park)"
-description              : "No regrets about this love."
+description              : "Sundong Park's page"
 url                      : # "https://sundongpark.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/sundongpark/sundongpark.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "박선동 (Sundong Park)"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Student."
+  bio              : "No regrets about this love."
   location         : "Republic of Korea"
   email            :
   links:
