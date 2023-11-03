@@ -18,6 +18,8 @@ classes: wide
 - B.S. in [Biomedical Engineering](http://bme.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Mar. 2018 ~ Aug. 2023)
 ## Military service
 - Republic of Korea Navy, (Jul. 2019 ~ Apr. 2021)
+## Publications
+1. **Sundong Park**, Yoonyoung Choi, Hyoseok Hwang, "SACuP: Sonar Image Augmentation with Cut and Paste Based DataBank for Semantic Segmentation," Remote Sensing 2023, 15(21), 5185 [IF:5.0]
 ## Skills
 - Programming languages: C, C++, Python, MATLAB
 - Libraries: ROS, PyTorch, OpenCV
