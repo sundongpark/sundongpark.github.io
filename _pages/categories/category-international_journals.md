@@ -1,11 +1,11 @@
 ---
-title: "C++"
+title: "International Journals"
 layout: archive
-permalink: categories/cpp
+permalink: categories/international_journals
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.Cpp %}
+{% assign posts = site.categories.['International Journals'] %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
