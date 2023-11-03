@@ -338,3 +338,19 @@ input[type="submit"],
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/*
+   Caption
+   ========================================================================== */
+img + em {
+  display: block;
+  text-align: center;
+  font-size: .8rem;
+  color: light-grey;
+}
+em + img {
+  display: block;
+  text-align: center;
+  font-size: .8rem;
+  color: light-grey;
+}
