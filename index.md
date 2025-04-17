@@ -22,7 +22,11 @@ classes: wide
 ## Military service
 - Republic of Korea Navy, (Jul. 2019 ~ Apr. 2021)
 ## Publications
-- **Sundong Park**, Yoonyoung Choi, Hyoseok Hwang, "SACuP: Sonar Image Augmentation with Cut and Paste Based DataBank for Semantic Segmentation," Remote Sensing 2023, 15(21), 5185 [IF:5.0] [[Paper]](https://doi.org/10.3390/rs15215185) [[Code]](https://github.com/AIRLABkhu/SACuP)
+(\*: Equal contribution, †: Corresponding author)
+### International Conferences
+- Tae-Young Lee\*, **Sundong Park**\*, Minwoo Jeon\*, Hyoseok Hwang†, and Gyeong-Moon Park†, "ESC: Erasing Space Concept for Knowledge Deletion,"  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025 [Highlight]
+### International Journals
+- **Sundong Park**, Yoonyoung Choi, and Hyoseok Hwang†, "SACuP: Sonar Image Augmentation with Cut and Paste Based DataBank for Semantic Segmentation," Remote Sensing 2023, 15(21), 5185 [IF:5.0] [[Paper]](https://doi.org/10.3390/rs15215185) [[Code]](https://github.com/AIRLABkhu/SACuP) 
 ## Skills
 - Programming languages: Python, C++, MATLAB
 - Libraries: PyTorch, OpenCV, ROS
