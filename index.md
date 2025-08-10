@@ -10,12 +10,12 @@ classes: wide
 # toc_label: "MYSELF"
 ---
 ---
-- [AIRLab (Artificial Intelligence & Robotics Lab)](http://airlab.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Sep. 2022 ~ Present)
+- [AIRLab (Artificial Intelligence & Robotics Lab)](http://airlab.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Sep. 2022 ~ Aug. 2025)
 - Email: <sundong@khu.ac.kr>
 - GitHub: [https://github.com/sundongpark](https://github.com/sundongpark)
 - Blog: [https://sundong.tistory.com](https://sundong.tistory.com)
 ## Education
-- M.S. Student in [Software Convergence](http://swcon.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Sep. 2023 ~ Present)
+- M.S. in [Software Convergence](http://swcon.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Sep. 2023 ~ Aug. 2025)
   - [AIRLab](http://airlab.khu.ac.kr)
 - B.S. in [Software Convergence](http://swcon.khu.ac.kr) (Robot and Vision Track), [Kyung Hee University](https://www.khu.ac.kr), (Sep. 2021 ~ Aug. 2023)
 - B.S. in [Biomedical Engineering](http://bme.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Mar. 2018 ~ Aug. 2023)
