@@ -15,7 +15,6 @@ I received my M.S. in Software Convergence at Kyung Hee University in the [AIRLa
 I obtained my B.S. in [Biomedical Engineering](http://bme.khu.ac.kr) and [Software Convergence](http://swcon.khu.ac.kr) from [Kyung Hee University](https://www.khu.ac.kr).
 My research focused on Vision AI, including data-efficient learning, privacy-preserving AI, and real-time sensor processing for practical applications.
 I am currently seeking opportunities to apply these experiences to smart manufacturing, robotics, and autonomous systems, where robustness and practical deployment are essential.
----
 - [AIRLab (Artificial Intelligence & Robotics Lab)](http://airlab.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Sep. 2022 ~ Aug. 2025)
 - Email: <sundong@khu.ac.kr>
 - GitHub: [https://github.com/sundongpark](https://github.com/sundongpark)
