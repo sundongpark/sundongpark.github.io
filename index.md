@@ -36,15 +36,15 @@ I am currently seeking opportunities to apply these experiences to smart manufac
 - Programming languages: Python, C++, MATLAB
 - Libraries: PyTorch, OpenCV, ROS
 ## Research interests
-- Computer Vision
-- Artificial Intelligence
-- Machine Unlearning
-- Data Augmentation
+- Vision AI for Real-World Applications
+- Data-Efficient & Data-Free AI
+- Domain-Specific Data Augmentation
+- Physical AI & Robotics
 ## I’m currently learning
-- Machine Unlearning
-- Self-Supervised Learning
-- Knowledge Distillation
-- NeRF (Neural Radiance Fields)
+- Robot Foundation Models
+- Embodied AI
+- World Foundation Models
+- Simulation & Sim2Real Transfer
 ## Hobbies
 - Fan of Suwon Samsung Bluewings Football Club
 - Hand Drip Coffee
