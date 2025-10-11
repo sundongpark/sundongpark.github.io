@@ -21,11 +21,12 @@ I am currently seeking opportunities to apply these experiences to smart manufac
 - Blog: [https://sundong.tistory.com](https://sundong.tistory.com)
 ## Education
 - M.S. in [Software Convergence](http://swcon.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Sep. 2023 ~ Aug. 2025)
-  - [AIRLab](http://airlab.khu.ac.kr)
-- B.S. in [Software Convergence](http://swcon.khu.ac.kr) (Robot and Vision Track), [Kyung Hee University](https://www.khu.ac.kr), (Sep. 2021 ~ Aug. 2023)
-- B.S. in [Biomedical Engineering](http://bme.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Mar. 2018 ~ Aug. 2023)
-## Military service
-- Republic of Korea Navy, (Jul. 2019 ~ Apr. 2021)
+  - [AIRLab (Artificial Intelligence & Robotics Lab)](http://airlab.khu.ac.kr)
+- B.S. in [Kyung Hee University](https://www.khu.ac.kr), (Mar. 2018 ~ Aug. 2023)
+  - Major: [Biomedical Engineering](http://bme.khu.ac.kr)
+  - Double Major: [Software Convergence](http://swcon.khu.ac.kr) (Robot and Vision Track)
+
+  Military Service: Republic of Korea Navy (Jul. 2019 ~ Apr. 2021)
 ## Publications
 (\*: Equal contribution, †: Corresponding author)
 ### International Conferences
