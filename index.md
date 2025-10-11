@@ -31,14 +31,17 @@ I am currently seeking opportunities to apply these experiences to smart manufac
 ### International Conferences
 - **ESC: Erasing Space Concept for Knowledge Deletion**  
   Tae-Young Lee*, **Sundong Park***, Minwoo Jeon*, Hyoseok Hwang†, and Gyeong-Moon Park†  
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025* **[Highlight]**
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025* **[Highlight]**  
+  [[Paper]](https://arxiv.org/abs/2504.02199) [[Code]](http://github.com/KU-VGI/ESC)
 ### International Journals
 - **DRIM: Depth Restoration with Interference Mitigation in Multiple LiDAR Depth Cameras**  
   Seunghui Shin, Jaeyun Jang, **Sundong Park**, and Hyoseok Hwang†  
   *IEEE Robotics and Automation Letters (**RA-L**), 2025*  
+  [[Paper]](https://ieeexplore.ieee.org/document/11197899) [[Dataset & Code]](https://sites.google.com/view/drim-dataset)  
 - **SACuP: Sonar Image Augmentation with Cut and Paste Based DataBank for Semantic Segmentation**  
   **Sundong Park**, Yoonyoung Choi, and Hyoseok Hwang†  
-  *Remote Sensing, 2023, 15(21), 5185 [IF:5.0]* [[Paper]](https://doi.org/10.3390/rs15215185) [[Code]](https://github.com/AIRLABkhu/SACuP)
+  *Remote Sensing, 2023, 15(21), 5185 [IF:5.0]*  
+  [[Paper]](https://doi.org/10.3390/rs15215185) [[Code]](https://github.com/AIRLABkhu/SACuP)
 ## Skills
 - Programming languages: Python, C++, MATLAB
 - Libraries: PyTorch, OpenCV, ROS
