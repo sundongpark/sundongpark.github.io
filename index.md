@@ -17,6 +17,7 @@ My research focused on Vision AI, including data-efficient learning, privacy-pre
 I am currently seeking opportunities to apply these experiences to smart manufacturing, robotics, and autonomous systems, where robustness and practical deployment are essential.
 
 ---
+
 ## Education
 - M.S. in [Software Convergence](http://swcon.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Sep. 2023 ~ Aug. 2025)
   - [AIRLab (Artificial Intelligence & Robotics Lab)](http://airlab.khu.ac.kr)
@@ -25,13 +26,16 @@ I am currently seeking opportunities to apply these experiences to smart manufac
   - Double Major: [Software Convergence](http://swcon.khu.ac.kr) (Robot and Vision Track)
 
   Military Service: Republic of Korea Navy (Jul. 2019 ~ Apr. 2021)
+  
 ## Publications
 (\*: Equal contribution, †: Corresponding author)
+
 ### International Conferences
 - **ESC: Erasing Space Concept for Knowledge Deletion**  
   Tae-Young Lee*, **Sundong Park***, Minwoo Jeon*, Hyoseok Hwang†, and Gyeong-Moon Park†  
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025* **[Highlight]**  
   [[Paper]](https://arxiv.org/abs/2504.02199) [[Code]](http://github.com/KU-VGI/ESC)
+
 ### International Journals
 - **DRIM: Depth Restoration with Interference Mitigation in Multiple LiDAR Depth Cameras**  
   Seunghui Shin, Jaeyun Jang, **Sundong Park**, and Hyoseok Hwang†  
@@ -41,19 +45,23 @@ I am currently seeking opportunities to apply these experiences to smart manufac
   **Sundong Park**, Yoonyoung Choi, and Hyoseok Hwang†  
   *Remote Sensing, 2023, 15(21), 5185 [IF:5.0]*  
   [[Paper]](https://doi.org/10.3390/rs15215185) [[Code]](https://github.com/AIRLABkhu/SACuP)
+  
 ## Skills
 - Programming languages: Python, C++, MATLAB
 - Libraries: PyTorch, OpenCV, ROS
+
 ## Research interests
 - Vision AI for Real-World Applications
 - Data-Efficient & Data-Free AI
 - Domain-Specific Data Augmentation
 - Physical AI & Robotics
+
 ## I’m currently learning
 - Robot Foundation Models
 - Embodied AI
 - World Foundation Models
 - Simulation & Sim2Real Transfer
+
 ## Hobbies
 - Fan of Suwon Samsung Bluewings Football Club
 - Hand Drip Coffee
