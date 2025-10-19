@@ -39,11 +39,11 @@ I am currently seeking opportunities to apply these experiences to smart manufac
 ### International Journals
 - **DRIM: Depth Restoration with Interference Mitigation in Multiple LiDAR Depth Cameras**  
   Seunghui Shin, Jaeyun Jang, **Sundong Park**, and Hyoseok Hwang†  
-  *IEEE Robotics and Automation Letters (**RA-L**), 2025*  
+  *IEEE Robotics and Automation Letters (**RA-L**), 2025, 10(11), 12079-12086* [IF: 5.3]  
   [[Paper]](https://ieeexplore.ieee.org/document/11197899) [[Dataset & Code]](https://sites.google.com/view/drim-dataset)  
 - **SACuP: Sonar Image Augmentation with Cut and Paste Based DataBank for Semantic Segmentation**  
   **Sundong Park**, Yoonyoung Choi, and Hyoseok Hwang†  
-  *Remote Sensing, 2023, 15(21), 5185 [IF:5.0]*  
+  *Remote Sensing, 2023, 15(21), 5185* [IF:5.0]  
   [[Paper]](https://doi.org/10.3390/rs15215185) [[Code]](https://github.com/AIRLABkhu/SACuP)
   
 ## Skills
