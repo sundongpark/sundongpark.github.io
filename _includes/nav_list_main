@@ -10,55 +10,34 @@
       📂 <span style="font-family:'Cafe24Oneprettynight';">Posts ({{ sum }})</span>
     </li>
 
-    <!-- Publications -->
     <li>
       <span class="nav__sub-title">Publications</span>
       <ul>
-
         {% assign journals = site.categories["International Journals"] %}
         {% if journals %}
-        <li>
-          <a href="/publications/international-journals/">
-            International Journals ({{ journals.size }})
-          </a>
-        </li>
+        <li><a href="/publications/international-journals/">International Journals ({{ journals.size }})</a></li>
         {% endif %}
 
         {% assign conferences = site.categories["Conference Papers"] %}
         {% if conferences %}
-        <li>
-          <a href="/publications/conference-papers/">
-            Conference Papers ({{ conferences.size }})
-          </a>
-        </li>
+        <li><a href="/publications/conference-papers/">Conference Papers ({{ conferences.size }})</a></li>
         {% endif %}
 
         {% assign preprints = site.categories["Preprints"] %}
         {% if preprints %}
-        <li>
-          <a href="/publications/preprints/">
-            Preprints ({{ preprints.size }})
-          </a>
-        </li>
+        <li><a href="/publications/preprints/">Preprints ({{ preprints.size }})</a></li>
         {% endif %}
+      </ul>
+    </li>
 
-    <!-- Software Engineering -->
     {% assign se_posts = site.categories["Software Engineering"] %}
     {% if se_posts %}
     <li>
-      <span class="nav__sub-title">Engineering</span>
-      <ul>
-        <li>
-          <a href="/software-engineering/">
-            Software Engineering ({{ se_posts.size }})
-          </a>
-        </li>
-      </ul>
+      <a href="/software-engineering/">
+        Software Engineering ({{ se_posts.size }})
+      </a>
     </li>
     {% endif %}
-
-      </ul>
-    </li>
 
   </ul>
 </nav>
