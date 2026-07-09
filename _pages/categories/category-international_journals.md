@@ -1,7 +1,7 @@
 ---
 title: "International Journals"
 layout: archive
-permalink: categories/international_journals
+permalink: publications/international_journals
 author_profile: true
 sidebar_main: true
 ---
