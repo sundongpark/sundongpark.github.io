@@ -15,9 +15,9 @@
           <li><a href="/publications/international-journals/">International Journals ({{ journals.size }})</a></li>
         {% endif %}
 
-        {% assign conferences = site.categories["Conference Papers"] %}
+        {% assign conferences = site.categories["International Conference"] %}
         {% if conferences %}
-          <li><a href="/publications/conference-papers/">Conference Papers ({{ conferences.size }})</a></li>
+          <li><a href="/publications/international-conference/">International Conference ({{ conferences.size }})</a></li>
         {% endif %}
 
         {% assign preprints = site.categories["Preprints"] %}
@@ -30,13 +30,13 @@
     <!-- 여백 -->
     <li style="margin-top: 1.2rem;"></li>
 
-    <!-- Software Engineering -->
+    <!-- Posts -->
     <li>
-      <span class="nav__sub-title">Software Engineering</span>
+      <span class="nav__sub-title">Posts</span>
       <ul>
         {% assign se_posts = site.categories["Software Engineering"] %}
         {% if se_posts %}
-          <li><a href="/software-engineering/">Articles ({{ se_posts.size }})</a></li>
+          <li><a href="/posts/software-engineering/">Software Engineering ({{ se_posts.size }})</a></li>
         {% endif %}
       </ul>
     </li>
