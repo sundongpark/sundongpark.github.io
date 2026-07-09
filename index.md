@@ -12,11 +12,15 @@ author_profile: true
 ---
 **Research Engineer, LIG Defense&Aerospace**
 
-I am Sundong Park, an AI and software engineer specializing in computer vision and machine learning.
-I received my M.S. in Software Convergence at Kyung Hee University in the [AIRLab (Artificial Intelligence & Robotics Lab)](http://airlab.khu.ac.kr).
-I obtained my B.S. in [Biomedical Engineering](http://bme.khu.ac.kr) and [Software Convergence](http://swcon.khu.ac.kr) from [Kyung Hee University](https://www.khu.ac.kr).
-My research focused on Vision AI, including data-efficient learning, privacy-preserving AI, and real-time sensor processing for practical applications.
-I aim to advance Vision AI to help build a better future and make the world better.
+A Research Engineer focused on solving real-world problems by grounding artificial intelligence in the physical world.
+Currently, at LIG Defense&Aerospace, I work on software for underwater acoustic modeling and simulation.
+I am deeply interested in modeling complex physical environments, such as computer vision, LiDAR, and underwater acoustics.
+
+My ultimate goal is to fully model and replicate the complexities of the physical world.
+By leveraging advanced AI, I aim to bridge the gap between simulation and reality, developing robust systems that can reliably operate in the most challenging physical environments.
+
+I am always open to learning from others and taking on new technical challenges.
+I warmly welcome opportunities to connect, exchange insights, and collaborate with anyone passionate about technology.
 
 ---
 
@@ -62,10 +66,10 @@ I aim to advance Vision AI to help build a better future and make the world bett
 - Physical AI & Robotics
 
 ## I’m currently learning
-- Robot Foundation Models
-- Embodied AI
 - World Foundation Models
 - Simulation & Sim2Real Transfer
+- Robot Foundation Models
+- Embodied AI
 
 ## Hobbies
 - Fan of Suwon Samsung Bluewings Football Club
