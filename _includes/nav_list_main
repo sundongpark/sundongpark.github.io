@@ -15,9 +15,9 @@
           <li><a href="/publications/international-journals/">International Journals ({{ journals.size }})</a></li>
         {% endif %}
 
-        {% assign conferences = site.categories["International Conference"] %}
+        {% assign conferences = site.categories["International Conferences"] %}
         {% if conferences %}
-          <li><a href="/publications/international-conference/">International Conference ({{ conferences.size }})</a></li>
+          <li><a href="/publications/international-conferences/">International Conferences ({{ conferences.size }})</a></li>
         {% endif %}
 
         {% assign preprints = site.categories["Preprints"] %}
