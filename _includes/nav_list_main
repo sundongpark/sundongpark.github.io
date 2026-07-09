@@ -1,27 +1,64 @@
-<!--전체 글 수를 세기 위한 연산. sum 변수에 전체 글 수 저장-->
-
 {% assign sum = site.posts | size %}
 
 <nav class="nav__list">
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
   <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label }}</label>
+
   <ul class="nav__items" id="category_tag_menu">
-      <!--전체 글 수-->
-      <li>
-            <!--📂 <span style="font-family:'Cafe24Oneprettynight';">전체 글 수</style> <span style="font-family:'Nanum Gothic';">{{sum}}</style> <span style="font-family:'Nanum Gothic';">개</style>  -->
-            📂 <span style="font-family:'Cafe24Oneprettynight';">Publications (</style><span style="font-family:'Nanum Gothic';">{{sum}}</style><span style="font-family:'Nanum Gothic';">)</style>
-      </li>
-      <li>
-        <!--span 태그로 카테고리들을 크게 분류 ex) C/C++/C#-->
-        <span class="nav__sub-title"> </span>
-            <!--ul 태그로 같은 카테고리들 모아둔 페이지들 나열-->
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "International Journals" %}
-                        <li><a href="/categories/international_journals" class="">International Journals ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-      </li>
+
+    <li>
+      📂 <span style="font-family:'Cafe24Oneprettynight';">Posts ({{ sum }})</span>
+    </li>
+
+    <!-- Publications -->
+    <li>
+      <span class="nav__sub-title">Publications</span>
+      <ul>
+
+        {% assign journals = site.categories["International Journals"] %}
+        {% if journals %}
+        <li>
+          <a href="/publications/international-journals/">
+            International Journals ({{ journals.size }})
+          </a>
+        </li>
+        {% endif %}
+
+        {% assign conferences = site.categories["Conference Papers"] %}
+        {% if conferences %}
+        <li>
+          <a href="/publications/conference-papers/">
+            Conference Papers ({{ conferences.size }})
+          </a>
+        </li>
+        {% endif %}
+
+        {% assign preprints = site.categories["Preprints"] %}
+        {% if preprints %}
+        <li>
+          <a href="/publications/preprints/">
+            Preprints ({{ preprints.size }})
+          </a>
+        </li>
+        {% endif %}
+
+    <!-- Software Engineering -->
+    {% assign se_posts = site.categories["Software Engineering"] %}
+    {% if se_posts %}
+    <li>
+      <span class="nav__sub-title">Engineering</span>
+      <ul>
+        <li>
+          <a href="/software-engineering/">
+            Software Engineering ({{ se_posts.size }})
+          </a>
+        </li>
+      </ul>
+    </li>
+    {% endif %}
+
+      </ul>
+    </li>
+
   </ul>
 </nav>
