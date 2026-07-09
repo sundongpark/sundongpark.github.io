@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /
   - title: "Publications"
-    url: /categories/
+    url: /publications/
   - title: "Software Engineering"
     url: /software-engineering/
   # - title: "Sample Collections"
