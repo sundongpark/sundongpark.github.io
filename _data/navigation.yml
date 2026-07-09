@@ -6,6 +6,8 @@ main:
     url: /
   - title: "Publications"
     url: /categories/
+  - title: "Software Engineering"
+    url: /software-engineering/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
