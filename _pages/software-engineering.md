@@ -1,6 +1,6 @@
 ---
 title: "Software Engineering"
-layout: category
+layout: archive
 permalink: /software-engineering/
 author_profile: true
 sidebar_main: true
