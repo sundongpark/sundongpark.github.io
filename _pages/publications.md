@@ -6,9 +6,12 @@ author_profile: true
 sidebar_main: true
 ---
 
-## International Journals
+## International Conferences
+{% for post in site.categories["International Conferences"] %}
+  {% include archive-single.html type=page.entries_layout %}
+{% endfor %}
 
-{% assign posts = site.categories["International Journals"] %}
-{% for post in posts %}
+## International Journals
+{% for post in site.categories["International Journals"] %}
   {% include archive-single.html type=page.entries_layout %}
 {% endfor %}
