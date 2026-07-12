@@ -1,7 +1,7 @@
 ---
 title: "Designing Real-Time Depth Restoration Modules for Multi-LiDAR Systems: HARP and MaGIC"
 categories:
-  - Software Engineering
+  - Research Note
 tags:
   - []
 toc: true
