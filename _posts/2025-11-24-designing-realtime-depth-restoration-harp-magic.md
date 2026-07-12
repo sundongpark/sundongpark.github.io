@@ -10,13 +10,12 @@ toc_sticky: true
 date: 2025-11-24
 last_modified_at: 2026-07-12
 ---
-> **Paper**
->
-> **DRIM: Depth Restoration With Interference Mitigation in Multiple LiDAR Depth Cameras**
->
-> *IEEE Robotics and Automation Letters (RA-L), 2025*
->
-> https://ieeexplore.ieee.org/document/11197899
+
+| | |
+|:--|:--|
+| **Paper** | **DRIM: Depth Restoration With Interference Mitigation in Multiple LiDAR Depth Cameras** |
+| **Venue** | *IEEE Robotics and Automation Letters (RA-L), 2025* |
+| **DOI / Link** | https://ieeexplore.ieee.org/document/11197899 |
 
 This post shares the motivation, design philosophy, and architectural decisions behind **DRIM**, published in *IEEE Robotics and Automation Letters (RA-L) 2025*.
 
