@@ -38,6 +38,10 @@
         {% if se_posts %}
           <li><a href="/posts/software-engineering/">Software Engineering ({{ se_posts.size }})</a></li>
         {% endif %}
+        {% assign research_note = site.categories["Research Note"] %}
+        {% if research_note %}
+          <li><a href="/posts/research-note/">Research Note ({{ research_note.size }})</a></li>
+        {% endif %}
       </ul>
     </li>
 
