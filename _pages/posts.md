@@ -6,8 +6,12 @@ author_profile: true
 sidebar_main: true
 ---
 
+## Research Notes
+{% for post in site.categories["Research Notes"] %}
+  {% include archive-single.html type=page.entries_layout %}
+{% endfor %}
+
 ## Software Engineering
-{% assign posts = site.categories["Software Engineering"] %}
-{% for post in posts %}
+{% for post in site.categories["Software Engineering"] %}
   {% include archive-single.html type=page.entries_layout %}
 {% endfor %}
