@@ -10,9 +10,17 @@ toc_sticky: true
 date: 2025-11-24
 last_modified_at: 2026-07-12
 ---
+> **Paper**
+>
+> **DRIM: Depth Restoration With Interference Mitigation in Multiple LiDAR Depth Cameras**
+>
+> *IEEE Robotics and Automation Letters (RA-L), 2025*
+>
+> https://ieeexplore.ieee.org/document/11197899
 
-I want to share the core engineering insights, design philosophies, and architectural decisions behind DRIM (published in IEEE Robotics and Automation Letters / RA-L 2025).
-In this post, I will focus specifically on how I designed the key components—MaGIC and HARP—to solve a critical real-world problem in multi-device environments.
+This post shares the motivation, design philosophy, and architectural decisions behind **DRIM**, published in *IEEE Robotics and Automation Letters (RA-L) 2025*.
+
+Rather than summarizing the paper, I explain why I designed the two key modules—**HARP** and **MaGIC**—how they address the challenges of multi-LiDAR interference, and the reasoning behind the final architecture.
 
 ---
 
