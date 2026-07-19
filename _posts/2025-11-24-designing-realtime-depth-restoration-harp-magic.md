@@ -8,12 +8,18 @@ toc: true
 toc_sticky: true
  
 date: 2025-11-24
-last_modified_at: 2026-07-13
+last_modified_at: 2026-07-20
 ---
 
 This post shares the motivation, design philosophy, and architectural decisions behind **DRIM**, published in *IEEE Robotics and Automation Letters (RA-L) 2025*.
 
 Rather than summarizing the paper, I explain why I designed the two key modules—**HARP** and **MaGIC**—how they address the challenges of multi-LiDAR interference, and the reasoning behind the final architecture.
+
+Originally, the primary focus of this research was dataset collection and synthesis, with the restoration model initially serving only as a baseline to demonstrate the dataset's utility.
+I joined the project to develop and evaluate the restoration model.
+During this process, I came to believe that real-time performance was essential for a software-based interference mitigation approach to be practically deployable in time-critical environments such as robotics, smart factories, and autonomous vehicles.
+Instead of limiting the model to a simple baseline, I advocated that the model should satisfy this requirement and designed a highly efficient, lightweight model under strict runtime constraints.
+I then implemented and optimized the model, and as a result, we delivered a high-speed, deployable solution that met our real-time performance goals within the project timeline.
 
 ---
 
