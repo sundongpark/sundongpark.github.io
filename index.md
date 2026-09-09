@@ -78,6 +78,5 @@ I warmly welcome opportunities to connect, exchange insights, and collaborate wi
 - Photography
 - Birdwatching
 
----
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sundongpark&theme=default&exclude_repos=sundongpark.github.io)](https://github.com/sundongpark)
+
 
